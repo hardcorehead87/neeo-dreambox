@@ -14,6 +14,7 @@ This Project allows the Control of any Enigma2 DVB Reciver with NEEO over TCP/IP
 # Changelog
 ## Version 0.0.3
 - Merged dedicated Power ON / OFF into release (THX to hardcorehead87)
+- Info Button added
 
 ## Version 0.0.2
 - implemented breack after each button sent to prevent double input
