@@ -230,6 +230,11 @@ module.exports.onButtonPressed = function onButtonPressed(name) {
       var Inquiry = 'remotecontrol?command=139';
       Inquire(Inquiry);
       break;
+      
+    case "INFO":
+      var Inquiry = 'remotecontrol?command=358';
+      Inquire(Inquiry);
+      break;
   }
 
 };
